@@ -2,6 +2,9 @@
 #include <string>
 #include <SDL2/SDL.h>
 
+// C includes
+#include "vector.c"
+
 const int WIDTH = 600;
 const int HEIGHT = 600;
 
